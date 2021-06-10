@@ -1,8 +1,8 @@
-prefix=/Users/luisg/Documents/GitHub/Auto-Bases/Env/env
+prefix=/Users/luisg/Documents/GitHub/Auto-Bases/env
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 toolexeclibdir=${libdir}
-includedir=/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/include
+includedir=/Users/luisg/Documents/GitHub/Auto-Bases/env/include
 
 Name: libffi
 Description: Library supporting Foreign Function Interfaces

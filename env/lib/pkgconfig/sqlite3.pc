@@ -1,6 +1,6 @@
 # Package Information for pkg-config
 
-prefix=/Users/luisg/Documents/GitHub/Auto-Bases/Env/env
+prefix=/Users/luisg/Documents/GitHub/Auto-Bases/env
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include

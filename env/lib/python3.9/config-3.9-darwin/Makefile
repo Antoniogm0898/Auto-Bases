@@ -81,7 +81,7 @@ MAKESETUP=      $(srcdir)/Modules/makesetup
 OPT=		-DNDEBUG -fwrapv -O2 -Wall
 BASECFLAGS=	 -Wno-unused-result -Wsign-compare -Wunreachable-code
 BASECPPFLAGS=	-IObjects -IInclude -IPython
-CONFIGURE_CFLAGS=	 -march=core2 -mtune=haswell -mssse3 -ftree-vectorize -fPIC -fPIE -fstack-protector-strong -O2 -pipe -isystem /Users/luisg/Documents/GitHub/Auto-Bases/Env/env/include   -arch x86_64 
+CONFIGURE_CFLAGS=	 -march=core2 -mtune=haswell -mssse3 -ftree-vectorize -fPIC -fPIE -fstack-protector-strong -O2 -pipe -isystem /Users/luisg/Documents/GitHub/Auto-Bases/env/include   -arch x86_64 
 # CFLAGS_NODIST is used for building the interpreter and stdlib C extensions.
 # Use it when a compiler flag should _not_ be part of the distutils CFLAGS
 # once Python is installed (Issue #21121).
@@ -90,8 +90,8 @@ CONFIGURE_CFLAGS_NODIST=  -Wl,-export_dynamic -g -std=c99 -Wextra -Wno-unused-re
 # Use it when a linker flag should _not_ be part of the distutils LDFLAGS
 # once Python is installed (bpo-35257)
 CONFIGURE_LDFLAGS_NODIST=  -Wl,-export_dynamic -g
-CONFIGURE_CPPFLAGS=	 -D_FORTIFY_SOURCE=2 -mmacosx-version-min=10.9 -isystem /Users/luisg/Documents/GitHub/Auto-Bases/Env/env/include -I/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/include
-CONFIGURE_LDFLAGS=	 -Wl,-pie -Wl,-headerpad_max_install_names -Wl,-dead_strip_dylibs -Wl,-rpath,/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/lib -L/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/lib
+CONFIGURE_CPPFLAGS=	 -D_FORTIFY_SOURCE=2 -mmacosx-version-min=10.9 -isystem /Users/luisg/Documents/GitHub/Auto-Bases/env/include -I/Users/luisg/Documents/GitHub/Auto-Bases/env/include
+CONFIGURE_LDFLAGS=	 -Wl,-pie -Wl,-headerpad_max_install_names -Wl,-dead_strip_dylibs -Wl,-rpath,/Users/luisg/Documents/GitHub/Auto-Bases/env/lib -L/Users/luisg/Documents/GitHub/Auto-Bases/env/lib
 # Avoid assigning CFLAGS, LDFLAGS, etc. so users can use them on the
 # command line to append to these values without stomping the pre-set
 # values.
@@ -130,7 +130,7 @@ MULTIARCH=	darwin
 MULTIARCH_CPPFLAGS = -DMULTIARCH=\"darwin\"
 
 # Install prefix for architecture-independent files
-prefix=		/Users/luisg/Documents/GitHub/Auto-Bases/Env/env
+prefix=		/Users/luisg/Documents/GitHub/Auto-Bases/env
 
 # Install prefix for architecture-dependent files
 exec_prefix=	${prefix}
@@ -201,12 +201,12 @@ RUNSHARED=
 ENSUREPIP=      no
 
 # OpenSSL options for setup.py so sysconfig can pick up AC_SUBST() vars.
-OPENSSL_INCLUDES=-I/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/include
+OPENSSL_INCLUDES=-I/Users/luisg/Documents/GitHub/Auto-Bases/env/include
 OPENSSL_LIBS=-lssl -lcrypto
-OPENSSL_LDFLAGS=-L/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/lib
+OPENSSL_LDFLAGS=-L/Users/luisg/Documents/GitHub/Auto-Bases/env/lib
 
 # Default zoneinfo.TZPATH. Added here to expose it in sysconfig.get_config_var
-TZPATH=/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/share/zoneinfo
+TZPATH=/Users/luisg/Documents/GitHub/Auto-Bases/env/share/zoneinfo
 
 # Modes for directories, executables and data files created by the
 # install process.  Default to user-only-writable for all file types.
@@ -215,7 +215,7 @@ EXEMODE=	755
 FILEMODE=	644
 
 # configure script arguments
-CONFIG_ARGS=	 '--prefix=/Users/luisg/Documents/GitHub/Auto-Bases/Env/env' '--build=x86_64-apple-darwin13.4.0' '--host=x86_64-apple-darwin13.4.0' '--enable-ipv6' '--with-ensurepip=no' '--with-tzpath=/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/share/zoneinfo' '--with-computed-gotos' '--with-system-ffi' '--enable-loadable-sqlite-extensions' '--with-tcltk-includes=-I/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/include' '--with-tcltk-libs=-L/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/lib -ltcl8.6 -ltk8.6' '--with-platlibdir=lib' '--with-lto' '--enable-optimizations' '-oldincludedir=/opt/concourse/worker/volumes/live/6bea4a75-e17e-40e6-5e22-5abf5d19cc88/volume/python-split_1621365874123/_build_env/x86_64-apple-darwin13.4.0/sysroot/usr/include' '--disable-shared' 'PROFILE_TASK=-m test --pgo' 'build_alias=x86_64-apple-darwin13.4.0' 'host_alias=x86_64-apple-darwin13.4.0' 'MACHDEP=darwin' 'CC= x86_64-apple-darwin13.4.0-clang' 'CFLAGS= -march=core2 -mtune=haswell -mssse3 -ftree-vectorize -fPIC -fPIE -fstack-protector-strong -O2 -pipe -isystem /Users/luisg/Documents/GitHub/Auto-Bases/Env/env/include   -arch x86_64 ' 'LDFLAGS= -Wl,-pie -Wl,-headerpad_max_install_names -Wl,-dead_strip_dylibs -Wl,-rpath,/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/lib -L/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/lib' 'CPPFLAGS= -D_FORTIFY_SOURCE=2 -mmacosx-version-min=10.9 -isystem /Users/luisg/Documents/GitHub/Auto-Bases/Env/env/include -I/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/include' 'PKG_CONFIG_PATH=/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/lib/pkgconfig'
+CONFIG_ARGS=	 '--prefix=/Users/luisg/Documents/GitHub/Auto-Bases/env' '--build=x86_64-apple-darwin13.4.0' '--host=x86_64-apple-darwin13.4.0' '--enable-ipv6' '--with-ensurepip=no' '--with-tzpath=/Users/luisg/Documents/GitHub/Auto-Bases/env/share/zoneinfo' '--with-computed-gotos' '--with-system-ffi' '--enable-loadable-sqlite-extensions' '--with-tcltk-includes=-I/Users/luisg/Documents/GitHub/Auto-Bases/env/include' '--with-tcltk-libs=-L/Users/luisg/Documents/GitHub/Auto-Bases/env/lib -ltcl8.6 -ltk8.6' '--with-platlibdir=lib' '--with-lto' '--enable-optimizations' '-oldincludedir=/opt/concourse/worker/volumes/live/6bea4a75-e17e-40e6-5e22-5abf5d19cc88/volume/python-split_1621365874123/_build_env/x86_64-apple-darwin13.4.0/sysroot/usr/include' '--disable-shared' 'PROFILE_TASK=-m test --pgo' 'build_alias=x86_64-apple-darwin13.4.0' 'host_alias=x86_64-apple-darwin13.4.0' 'MACHDEP=darwin' 'CC= x86_64-apple-darwin13.4.0-clang' 'CFLAGS= -march=core2 -mtune=haswell -mssse3 -ftree-vectorize -fPIC -fPIE -fstack-protector-strong -O2 -pipe -isystem /Users/luisg/Documents/GitHub/Auto-Bases/env/include   -arch x86_64 ' 'LDFLAGS= -Wl,-pie -Wl,-headerpad_max_install_names -Wl,-dead_strip_dylibs -Wl,-rpath,/Users/luisg/Documents/GitHub/Auto-Bases/env/lib -L/Users/luisg/Documents/GitHub/Auto-Bases/env/lib' 'CPPFLAGS= -D_FORTIFY_SOURCE=2 -mmacosx-version-min=10.9 -isystem /Users/luisg/Documents/GitHub/Auto-Bases/env/include -I/Users/luisg/Documents/GitHub/Auto-Bases/env/include' 'PKG_CONFIG_PATH=/Users/luisg/Documents/GitHub/Auto-Bases/env/lib/pkgconfig'
 
 
 # Subdirectories with code
@@ -264,8 +264,8 @@ BUILD_GNU_TYPE=	x86_64-apple-darwin13.4.0
 HOST_GNU_TYPE=	x86_64-apple-darwin13.4.0
 
 # Tcl and Tk config info from --with-tcltk-includes and -libs options
-TCLTK_INCLUDES=	-I/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/include
-TCLTK_LIBS=	-L/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/lib -ltcl8.6 -ltk8.6
+TCLTK_INCLUDES=	-I/Users/luisg/Documents/GitHub/Auto-Bases/env/include
+TCLTK_LIBS=	-L/Users/luisg/Documents/GitHub/Auto-Bases/env/lib -ltcl8.6 -ltk8.6
 
 # The task to run while instrumented when building the profile-opt target.
 # To speed up profile generation, we don't run the full unit test suite
@@ -314,7 +314,7 @@ IO_OBJS=	\
 
 ##########################################################################
 
-LIBFFI_INCLUDEDIR=	/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/include
+LIBFFI_INCLUDEDIR=	/Users/luisg/Documents/GitHub/Auto-Bases/env/include
 
 ##########################################################################
 # Parser

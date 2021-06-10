@@ -25,6 +25,7 @@
   ],
   "fn": "certifi-2021.5.30-py39hecd8cb5_0.conda",
   "legacy_bz2_md5": "a02601c0a13f105229c081db9acf2806",
+  "legacy_bz2_size": 144682,
   "license": "MPL-2.0",
   "link": {
     "source": "/opt/anaconda3/pkgs/certifi-2021.5.30-py39hecd8cb5_0",

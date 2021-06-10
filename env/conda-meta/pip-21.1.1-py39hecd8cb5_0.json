@@ -808,6 +808,7 @@
   ],
   "fn": "pip-21.1.1-py39hecd8cb5_0.conda",
   "legacy_bz2_md5": "5b8e40dde6973e5ecc50a992421a4fd2",
+  "legacy_bz2_size": 2138244,
   "license": "MIT",
   "license_family": "MIT",
   "link": {
@@ -825,7 +826,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/e8a3ee73-6cd7-4a9e-50fb-34555d7b8e2a/volume/pip_1621539983010/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
         "sha256": "c10c2905892db2f36f81eb2a19346e61298e27d1ee562c86c55f5571a1f5aa34",
-        "sha256_in_prefix": "602b139b4c01e1d11fab4dee1a88272ad1701b018edcb77c15626817ee1234a4",
+        "sha256_in_prefix": "f72079d264c2cfaadb54ae66b3d4dcc353ee579fa655a3efe00b85c5901a0092",
         "size_in_bytes": 475
       },
       {
@@ -834,7 +835,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/e8a3ee73-6cd7-4a9e-50fb-34555d7b8e2a/volume/pip_1621539983010/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
         "sha256": "c10c2905892db2f36f81eb2a19346e61298e27d1ee562c86c55f5571a1f5aa34",
-        "sha256_in_prefix": "602b139b4c01e1d11fab4dee1a88272ad1701b018edcb77c15626817ee1234a4",
+        "sha256_in_prefix": "f72079d264c2cfaadb54ae66b3d4dcc353ee579fa655a3efe00b85c5901a0092",
         "size_in_bytes": 475
       },
       {

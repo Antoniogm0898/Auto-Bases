@@ -24,6 +24,7 @@
   ],
   "fn": "libffi-3.3-hb1e8313_2.conda",
   "legacy_bz2_md5": "0d866b17cc3b70288c14478faed26db7",
+  "legacy_bz2_size": 48878,
   "license": "Custom",
   "link": {
     "source": "/opt/anaconda3/pkgs/libffi-3.3-hb1e8313_2",
@@ -60,7 +61,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/456b3c38-05c8-4514-4524-16f70e0904dc/volume/libffi_1594054218392/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
         "sha256": "ce69e90c01d07f9916f205fdf0505ab60d07f411ff3e6b8387db2c5b879c1e8f",
-        "sha256_in_prefix": "e84128921e48ea3629b63727e19b9ddb356fb474bcf2b1280c74b181b8e9ff8e",
+        "sha256_in_prefix": "1f32d4abe37b3fa65a802621ffb46cb7a3f26a8f3bb40834fd32961dd2788c18",
         "size_in_bytes": 37884
       },
       {
@@ -82,7 +83,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
         "sha256": "189c5407784da1867aa504aa5dde3d737e88edc1102e12b84c91e36e3f4f391f",
-        "sha256_in_prefix": "373e1a03310007e49be346d97773af4e0c00bdc98889f063a691f1b9be68e995",
+        "sha256_in_prefix": "2394d7fd912da752b54c672ad76eda07bb9ea71cbbe4bcc23ce52fc9d517f9ff",
         "size_in_bytes": 308
       },
       {

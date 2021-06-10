@@ -5,10 +5,10 @@
 # You can do whatever you want with this file.
 #
 
-prefix=/Users/luisg/Documents/GitHub/Auto-Bases/Env/env
-exec_prefix=/Users/luisg/Documents/GitHub/Auto-Bases/Env/env
-libdir=/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/lib
-includedir=/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/include
+prefix=/Users/luisg/Documents/GitHub/Auto-Bases/env
+exec_prefix=/Users/luisg/Documents/GitHub/Auto-Bases/env
+libdir=/Users/luisg/Documents/GitHub/Auto-Bases/env/lib
+includedir=/Users/luisg/Documents/GitHub/Auto-Bases/env/include
 
 Name: liblzma
 Description: General purpose data compression library

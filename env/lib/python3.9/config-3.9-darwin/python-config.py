@@ -1,4 +1,4 @@
-#!/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/bin/python3.9
+#!/Users/luisg/Documents/GitHub/Auto-Bases/env/bin/python3.9
 # -*- python -*-
 
 # Keep this script in sync with python-config.sh.in

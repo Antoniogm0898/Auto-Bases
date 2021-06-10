@@ -23,6 +23,7 @@
   ],
   "fn": "mkl-service-2.3.0-py39h9ed2024_1.conda",
   "legacy_bz2_md5": "840424a79238fadfb08c8a1b9f3d5984",
+  "legacy_bz2_size": 47910,
   "license": "BSD-3-Clause",
   "license_family": "BSD",
   "link": {
@@ -54,7 +55,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/3845848b-d58f-4e86-6e75-cd7156aab69b/volume/mkl-service_1618348186558/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
         "sha256": "ced211669664d4bde5b0da7b84939bb95f8a536831beb7bf8f059c7946089142",
-        "sha256_in_prefix": "bbbb51768f9939ab455b352b0dc40bad456a90c50553cc0ca45dacdd98319972",
+        "sha256_in_prefix": "0ee78963d82b5a3a8b7c996af82d946f83c03f3ffd23bfee455a95acfec73a8e",
         "size_in_bytes": 12640
       },
       {
@@ -63,7 +64,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/3845848b-d58f-4e86-6e75-cd7156aab69b/volume/mkl-service_1618348186558/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
         "sha256": "0f6f79f68cb2d3f5b91270b2e37e061e16a0a99383c31b32fa0dab4ef35b2dc6",
-        "sha256_in_prefix": "6688a9852c8c367c4714101bd4863059b121947a16d31e36bd9c5e8f11151acd",
+        "sha256_in_prefix": "b7d90e3a2c7a17f326b7ae1a08183f9b2e31658d9ae1f3b883a7134dc792aab2",
         "size_in_bytes": 104532
       },
       {

@@ -1,8 +1,8 @@
 # tk pkg-config source file
 
-prefix=/Users/luisg/Documents/GitHub/Auto-Bases/Env/env
-exec_prefix=/Users/luisg/Documents/GitHub/Auto-Bases/Env/env
-libdir=/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/lib
+prefix=/Users/luisg/Documents/GitHub/Auto-Bases/env
+exec_prefix=/Users/luisg/Documents/GitHub/Auto-Bases/env
+libdir=/Users/luisg/Documents/GitHub/Auto-Bases/env/lib
 includedir=${prefix}/include
 
 Name: The Tk Toolkit

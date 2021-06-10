@@ -40,6 +40,7 @@
   ],
   "fn": "mkl_random-1.2.1-py39hb2f4e1b_2.conda",
   "legacy_bz2_md5": "fd2d3fc905e1e520328649bae511f00d",
+  "legacy_bz2_size": 328942,
   "license": "BSD 3-Clause",
   "link": {
     "source": "/opt/anaconda3/pkgs/mkl_random-1.2.1-py39hb2f4e1b_2",
@@ -154,7 +155,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/ee9c6651-7474-4ea3-40dc-9000610cf5d2/volume/mkl_random_1618853976708/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
         "sha256": "afbd5c01fede46585cb49a09a35f0a686d2f0486adf9408edcaaad2f89575927",
-        "sha256_in_prefix": "9606d7bab5e4c3ae142124e37ff9d2ebec8179f0bd28eb3821fb912c84da7699",
+        "sha256_in_prefix": "1e9a6f4ec3cf04b50cbd27d32c66ded267dbc01d501a5ce5926f14d47e644ba3",
         "size_in_bytes": 962720
       },
       {

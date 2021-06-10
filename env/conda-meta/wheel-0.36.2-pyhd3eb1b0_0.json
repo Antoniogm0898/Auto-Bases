@@ -52,6 +52,7 @@
   ],
   "fn": "wheel-0.36.2-pyhd3eb1b0_0.conda",
   "legacy_bz2_md5": "283aa9533b88c0a33e23e013af1d7548",
+  "legacy_bz2_size": 31642,
   "license": "MIT",
   "link": {
     "source": "/opt/anaconda3/pkgs/wheel-0.36.2-pyhd3eb1b0_0",

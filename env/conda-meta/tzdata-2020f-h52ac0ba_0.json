@@ -610,6 +610,7 @@
   ],
   "fn": "tzdata-2020f-h52ac0ba_0.conda",
   "legacy_bz2_md5": "06b41bad2ca0996e91c75a8707a90c96",
+  "legacy_bz2_size": 126004,
   "license": "LicenseRef-Public-Domain",
   "link": {
     "source": "/opt/anaconda3/pkgs/tzdata-2020f-h52ac0ba_0",

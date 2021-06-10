@@ -44,11 +44,11 @@ TCL_LIBS=' -lz  -lpthread -framework CoreFoundation '
 
 # Top-level directory in which Tcl's platform-independent files are
 # installed.
-TCL_PREFIX='/Users/luisg/Documents/GitHub/Auto-Bases/Env/env'
+TCL_PREFIX='/Users/luisg/Documents/GitHub/Auto-Bases/env'
 
 # Top-level directory in which Tcl's platform-specific files (e.g.
 # executables) are installed.
-TCL_EXEC_PREFIX='/Users/luisg/Documents/GitHub/Auto-Bases/Env/env'
+TCL_EXEC_PREFIX='/Users/luisg/Documents/GitHub/Auto-Bases/env'
 
 # Flags to pass to cc when compiling the components of a shared library:
 TCL_SHLIB_CFLAGS='-fno-common'
@@ -57,7 +57,7 @@ TCL_SHLIB_CFLAGS='-fno-common'
 TCL_CFLAGS_WARNING='-Wall'
 
 # Extra flags to pass to cc:
-TCL_EXTRA_CFLAGS='-march=core2 -mtune=haswell -mssse3 -ftree-vectorize -fPIC -fPIE -fstack-protector-strong -O2 -pipe -isystem /Users/luisg/Documents/GitHub/Auto-Bases/Env/env/include -fdebug-prefix-map=/opt/concourse/worker/volumes/live/10dd1500-e7e9-4eb8-4ab4-a7c774e03737/volume/tk_1592503177392/work=/usr/local/src/conda/tk-8.6.10 -fdebug-prefix-map=/Users/luisg/Documents/GitHub/Auto-Bases/Env/env=/usr/local/src/conda-prefix -pipe  -arch x86_64 -D_FORTIFY_SOURCE=2 -mmacosx-version-min=10.9 -isystem /Users/luisg/Documents/GitHub/Auto-Bases/Env/env/include '
+TCL_EXTRA_CFLAGS='-march=core2 -mtune=haswell -mssse3 -ftree-vectorize -fPIC -fPIE -fstack-protector-strong -O2 -pipe -isystem /Users/luisg/Documents/GitHub/Auto-Bases/env/include -fdebug-prefix-map=/opt/concourse/worker/volumes/live/10dd1500-e7e9-4eb8-4ab4-a7c774e03737/volume/tk_1592503177392/work=/usr/local/src/conda/tk-8.6.10 -fdebug-prefix-map=/Users/luisg/Documents/GitHub/Auto-Bases/env=/usr/local/src/conda-prefix -pipe  -arch x86_64 -D_FORTIFY_SOURCE=2 -mmacosx-version-min=10.9 -isystem /Users/luisg/Documents/GitHub/Auto-Bases/env/include '
 
 # Base command to use for combining object files into a shared library:
 TCL_SHLIB_LD='${CC} -dynamiclib ${CFLAGS} ${LDFLAGS} -Wl,-single_module'
@@ -79,7 +79,7 @@ TCL_DL_LIBS=''
 
 # Flags to pass to the compiler when linking object files into
 # an executable tclsh or tcltest binary.
-TCL_LD_FLAGS='-Wl,-pie -Wl,-headerpad_max_install_names -Wl,-dead_strip_dylibs -Wl,-rpath,/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/lib -L/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/lib -headerpad_max_install_names -Wl,-search_paths_first '
+TCL_LD_FLAGS='-Wl,-pie -Wl,-headerpad_max_install_names -Wl,-dead_strip_dylibs -Wl,-rpath,/Users/luisg/Documents/GitHub/Auto-Bases/env/lib -L/Users/luisg/Documents/GitHub/Auto-Bases/env/lib -headerpad_max_install_names -Wl,-search_paths_first '
 
 # Flags to pass to cc/ld, such as "-R /usr/local/tcl/lib", that tell the
 # run-time dynamic linker where to look for shared libraries such as
@@ -104,11 +104,11 @@ TCL_BUILD_LIB_SPEC='-L/opt/concourse/worker/volumes/live/10dd1500-e7e9-4eb8-4ab4
 
 # String to pass to linker to pick up the Tcl library from its
 # installed directory.
-TCL_LIB_SPEC='-L/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/lib -ltcl8.6'
+TCL_LIB_SPEC='-L/Users/luisg/Documents/GitHub/Auto-Bases/env/lib -ltcl8.6'
 
 # String to pass to the compiler so that an extension can
 # find installed Tcl headers.
-TCL_INCLUDE_SPEC='-I/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/include'
+TCL_INCLUDE_SPEC='-I/Users/luisg/Documents/GitHub/Auto-Bases/env/include'
 
 # Indicates whether a version numbers should be used in -l switches
 # ("ok" means it's safe to use switches like -ltcl7.5;  "nodots" means
@@ -140,7 +140,7 @@ TCL_SRC_DIR='/opt/concourse/worker/volumes/live/10dd1500-e7e9-4eb8-4ab4-a7c774e0
 # List of standard directories in which to look for packages during
 # "package require" commands.  Contains the "prefix" directory plus also
 # the "exec_prefix" directory, if it is different.
-TCL_PACKAGE_PATH='/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/lib '
+TCL_PACKAGE_PATH='/Users/luisg/Documents/GitHub/Auto-Bases/env/lib '
 
 # Tcl supports stub.
 TCL_SUPPORTS_STUBS=1
@@ -157,13 +157,13 @@ TCL_BUILD_STUB_LIB_SPEC='-L/opt/concourse/worker/volumes/live/10dd1500-e7e9-4eb8
 
 # String to pass to linker to pick up the Tcl stub library from its
 # installed directory.
-TCL_STUB_LIB_SPEC='-L/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/lib -ltclstub8.6'
+TCL_STUB_LIB_SPEC='-L/Users/luisg/Documents/GitHub/Auto-Bases/env/lib -ltclstub8.6'
 
 # Path to the Tcl stub library in the build directory.
 TCL_BUILD_STUB_LIB_PATH='/opt/concourse/worker/volumes/live/10dd1500-e7e9-4eb8-4ab4-a7c774e03737/volume/tk_1592503177392/work/tcl8.6.10/unix/libtclstub8.6.a'
 
 # Path to the Tcl stub library in the install directory.
-TCL_STUB_LIB_PATH='/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/lib/libtclstub8.6.a'
+TCL_STUB_LIB_PATH='/Users/luisg/Documents/GitHub/Auto-Bases/env/lib/libtclstub8.6.a'
 
 # Flag, 1: we built Tcl with threads enabled, 0 we didn't
 TCL_THREADS=1

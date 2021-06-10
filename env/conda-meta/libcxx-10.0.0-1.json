@@ -188,6 +188,7 @@
   ],
   "fn": "libcxx-10.0.0-1.conda",
   "legacy_bz2_md5": "1f4dca699e132460ff69e724d5fdf2a0",
+  "legacy_bz2_size": 1061757,
   "license": "Apache-2.0 WITH LLVM-exception",
   "license_family": "Apache",
   "link": {
@@ -1423,7 +1424,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/079a9ea4-64b6-4fc7-6c14-dca8c9240820/volume/libcxx_and_libcxxabi_1589540188860/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
         "sha256": "b56abec5d1e50244872e69ad001d173f060945bcfe6b51b599f4de2d3253be9d",
-        "sha256_in_prefix": "24c30c6aaf1079177d234e4467c77fc809fb84b5afda65f44873d12d445eba31",
+        "sha256_in_prefix": "305147d7e0eb89903c6d1220c8c5cea9ee7df0efa189c8c801fc325751f92f8c",
         "size_in_bytes": 828276
       },
       {

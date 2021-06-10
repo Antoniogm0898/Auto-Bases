@@ -12,6 +12,7 @@
   ],
   "fn": "ca-certificates-2021.5.25-hecd8cb5_1.conda",
   "legacy_bz2_md5": "c04e1748c0dd8340ece5199c1271833d",
+  "legacy_bz2_size": 120100,
   "license": "MPL 2.0",
   "link": {
     "source": "/opt/anaconda3/pkgs/ca-certificates-2021.5.25-hecd8cb5_1",

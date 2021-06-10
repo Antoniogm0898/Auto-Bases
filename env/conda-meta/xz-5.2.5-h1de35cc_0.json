@@ -94,6 +94,7 @@
   ],
   "fn": "xz-5.2.5-h1de35cc_0.conda",
   "legacy_bz2_md5": "9ae05a921d148dc61b64b2685145cf82",
+  "legacy_bz2_size": 288359,
   "license": "LGPL-2.1 and GPL-2.0",
   "link": {
     "source": "/opt/anaconda3/pkgs/xz-5.2.5-h1de35cc_0",
@@ -158,7 +159,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/5bf7759c-e6ee-4f47-7f31-281138093bd9/volume/xz_1587011641138/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
         "sha256": "893e517bea5a89a6d13e6c03297ce9c5da7c74b32b2e3b8d7d9296c4fc2eb0b4",
-        "sha256_in_prefix": "121280560623919cdf9657a45f591b2c034e3302948d98487a021144872bc359",
+        "sha256_in_prefix": "bcf28f45e63f1d447431ee45994a6148387f8026842ea58441d87e4bd10747d4",
         "size_in_bytes": 13972
       },
       {
@@ -167,7 +168,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/5bf7759c-e6ee-4f47-7f31-281138093bd9/volume/xz_1587011641138/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
         "sha256": "0e8a825b5787404189dc58397279e746cbfbe3c7091d3d67fb8c80b1d9ba3967",
-        "sha256_in_prefix": "1a3a263dee945436fcde9ee567eb7d47366f5ecc6902a514c868db4d736bd2ae",
+        "sha256_in_prefix": "3d5132b7d3c31ef9906ae3a3fb64366065e923585fb7faf10379fb6cf441fb8a",
         "size_in_bytes": 13724
       },
       {
@@ -194,7 +195,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/5bf7759c-e6ee-4f47-7f31-281138093bd9/volume/xz_1587011641138/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
         "sha256": "ee5132fe9f6e0a47068a4dfc5f586f7a171be30dd8f53ddde99ddddbc002b36c",
-        "sha256_in_prefix": "cc943bb04263c93387f721f6feda0065396e5a2fb80f0565c34cce42f7ee6c91",
+        "sha256_in_prefix": "c5217afd76bc8eba4db2419ab8f21f4c4dd59fee45fbe50bbc6d5917fd77f34f",
         "size_in_bytes": 74720
       },
       {
@@ -215,7 +216,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/5bf7759c-e6ee-4f47-7f31-281138093bd9/volume/xz_1587011641138/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
         "sha256": "cb5cd51b71fb8f16bf94b74c56a893b4ce7c70abe139460b4d97e699ce249240",
-        "sha256_in_prefix": "4cba39c51c396b2d0518d019ee494d38df28d9c70ecea23976c71835f41c53a9",
+        "sha256_in_prefix": "b20ce08003ccea8b1d6277318d6e05ef790a46d6259ab26353026b6475caec60",
         "size_in_bytes": 13980
       },
       {
@@ -369,7 +370,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/5bf7759c-e6ee-4f47-7f31-281138093bd9/volume/xz_1587011641138/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
         "sha256": "64f78184ec0815d641fbd2718333e96561cccff9b592099c204cd832e56db37b",
-        "sha256_in_prefix": "b99f49fc2fe4e7f85971f34ad7b224b36b6c4f2f21507f375a2ab3bfe3ae40a6",
+        "sha256_in_prefix": "663b6337b2ae70628b9e5cd1f19948f20899152b52e4176a651db4aaa87825c5",
         "size_in_bytes": 154396
       },
       {
@@ -391,7 +392,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
         "sha256": "0c06af64045346dde4d0e169789f0fc6ab30e7b3786046199012fc360515d94b",
-        "sha256_in_prefix": "1dad16e6dcc2858c530e2554a5b42ef0a958e826e4b2ae68e3b5b5a82fa4e713",
+        "sha256_in_prefix": "6e743c8da0c410c529c7daa34ebe7839f15b30346790e7d3101f4a8c2370ecef",
         "size_in_bytes": 521
       },
       {

@@ -36,7 +36,7 @@ LANGUAGE=C;	export LANGUAGE
 LC_ALL=C;	export LC_ALL
 LC_CTYPE=C;	export LC_CTYPE
 
-prefix="/Users/luisg/Documents/GitHub/Auto-Bases/Env/env"
+prefix="/Users/luisg/Documents/GitHub/Auto-Bases/env"
 exec_prefix="${prefix}"
 
 bindir="${exec_prefix}/bin"
@@ -241,10 +241,10 @@ ENDECHO
 		echo "${mandir}"
 		;;
 	--terminfo)
-		echo "/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/share/terminfo"
+		echo "/Users/luisg/Documents/GitHub/Auto-Bases/env/share/terminfo"
 		;;
 	--terminfo-dirs)
-		echo "/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/share/terminfo"
+		echo "/Users/luisg/Documents/GitHub/Auto-Bases/env/share/terminfo"
 		;;
 	--termpath)
 		echo "/etc/termcap:/usr/share/misc/termcap"

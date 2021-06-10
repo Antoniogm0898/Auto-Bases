@@ -539,6 +539,7 @@
   ],
   "fn": "tk-8.6.10-hb0a8c7a_0.conda",
   "legacy_bz2_md5": "89085878dfca80e48aa2f82302017c25",
+  "legacy_bz2_size": 3414641,
   "license": "Tcl/Tk",
   "license_family": "BSD",
   "link": {
@@ -569,7 +570,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/10dd1500-e7e9-4eb8-4ab4-a7c774e03737/volume/tk_1592503177392/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
         "sha256": "5252d90e29f54825c03bfdd67d324973ab3e786a9dcfa5bb620a64d10d1d2151",
-        "sha256_in_prefix": "0785505e90912dbcf6205effd7ab79073471e8de5e5e9717959378151064a5eb",
+        "sha256_in_prefix": "284cfe86498f542e4425d0fb10d18c1d2138127ea809a16793072bbbfe8b3708",
         "size_in_bytes": 12792
       },
       {
@@ -584,7 +585,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/10dd1500-e7e9-4eb8-4ab4-a7c774e03737/volume/tk_1592503177392/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
         "sha256": "8e0a0237a8af80f1bfe1dd5ed48055af27f66d3f317ba98f6d6b98723bef517a",
-        "sha256_in_prefix": "0573b259c05c1d5384c8aa10b07b6600e294a31ea1270bc20991a676fdb5270c",
+        "sha256_in_prefix": "0af99852f9bbe79367fdd1dfd2e93f272533c26c05c1583a5e53d4e3271534c1",
         "size_in_bytes": 17152
       },
       {
@@ -1230,7 +1231,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
         "sha256": "f876037d8d91f448fbd9d92cbc5e5546f2d56a2985c5c15bce8c324fe49e4a9d",
-        "sha256_in_prefix": "1a79145344b12d3876b877aa3ff0d50d85320d9973faac8972f8aa5cc9b6ea61",
+        "sha256_in_prefix": "26854f7e17f0896eac23ff891ec92a03bd6ac0ac6955ca9606b62fb2e07f7135",
         "size_in_bytes": 4006
       },
       {
@@ -1253,7 +1254,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/10dd1500-e7e9-4eb8-4ab4-a7c774e03737/volume/tk_1592503177392/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
         "sha256": "f3ce2a34f2df4fca63fe303d6334dfe9ec025beb4ece8ce44fdd123bc28db76f",
-        "sha256_in_prefix": "4201a4dad3d60db9ecce1812b83fd951db4e0a826e00a694baa8a3322a00d845",
+        "sha256_in_prefix": "3abb9e0efbb5ecfff35e24135d1bde483b43e78a46dbebb4e1331b26430cde97",
         "size_in_bytes": 256612
       },
       {
@@ -1276,7 +1277,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/10dd1500-e7e9-4eb8-4ab4-a7c774e03737/volume/tk_1592503177392/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
         "sha256": "9d6df1b368ef8583dc0923cf76be4c2cf77075c58e7688e75eaddbac2302ade5",
-        "sha256_in_prefix": "bbfc2fc4f3dc95a3eb21b5c4a0cab21a30ece9ecd37b3123d6c9d885048fdb4d",
+        "sha256_in_prefix": "0037356f23ccf5790b7d0c891d61cc8700d81c594f4664b4fa8accc263a325b6",
         "size_in_bytes": 1586808
       },
       {
@@ -1292,7 +1293,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/10dd1500-e7e9-4eb8-4ab4-a7c774e03737/volume/tk_1592503177392/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
         "sha256": "8fd472d10ec331d4937d44f681c9ccb1a491027fa985c9a8fcbb5e94d89fba1e",
-        "sha256_in_prefix": "b6da29b853ae3f3869321ea24744d882b0ceca4d41523b2a67e194495d5275cf",
+        "sha256_in_prefix": "241deeecc86c4072f4a38f70322be9c176534e56de46fa6d2f69736a113f38cb",
         "size_in_bytes": 1567392
       },
       {
@@ -1308,7 +1309,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
         "sha256": "681f1a01e421116b0f86f10bcd566b19eaba80af7a854eaa67f27724d0371158",
-        "sha256_in_prefix": "ff92be7582ad3872fed89012761df486cb936386d7991636277e8e50eb501d67",
+        "sha256_in_prefix": "0027e23443fd7abcc5d2684cd6fbc6d3ab5155da160d5a28e63c36f53ddbddcb",
         "size_in_bytes": 521
       },
       {
@@ -1317,7 +1318,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
         "sha256": "6c30da41f4c2d214365908baeeb9e4fb5ec502fe416c7c8925f02cebf4238dd0",
-        "sha256_in_prefix": "cf6467dd794b34014ab58dc78ca9d6b19a7cfa5ce2ee18715222e05bb0c1b37b",
+        "sha256_in_prefix": "640d363f285baa400737b7da79b963b4a1305338aecd2a514f3ba41975f1625c",
         "size_in_bytes": 506
       },
       {
@@ -1326,7 +1327,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/10dd1500-e7e9-4eb8-4ab4-a7c774e03737/volume/tk_1592503177392/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
         "sha256": "21ce4170bbb63a6533256b99f9bf581a19bf6f35ec763305f7b45eb1a7465eae",
-        "sha256_in_prefix": "fdf6d4db7b8eb68a8c98c4389416d8303ee5bae442fdf3820d6aedeb368a289e",
+        "sha256_in_prefix": "00374e3d39ae3cd2e7e2b21e60226cc3488acd9ba919c3a130594e65520f750b",
         "size_in_bytes": 1044656
       },
       {
@@ -2924,7 +2925,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
         "sha256": "0e0ba6642785807c8cdadfe34f9749e09d535002855b9d106110aa0bcd707f05",
-        "sha256_in_prefix": "16eb382838f6e6ce64aefbdb4d4e4b320590e3ffa3d7a5922c2d10d839c844b8",
+        "sha256_in_prefix": "86518c86de1d72dd73118a71860e94159b5d19f7196bc1233d711e0dcc93e35e",
         "size_in_bytes": 9326
       },
       {
@@ -2940,7 +2941,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/10dd1500-e7e9-4eb8-4ab4-a7c774e03737/volume/tk_1592503177392/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
         "sha256": "9fa3270f641ad14ead6060b36d40e23a5fb742e1842310d3aa3604312440db61",
-        "sha256_in_prefix": "793909f583a7a5cabe0e5011d5dab57c9042ddf3018c344f6899baf0685141b8",
+        "sha256_in_prefix": "27e32cfcc34625ce6270ec5b0e763dec4fb080e7c7858a300cb23a5fa7d899b0",
         "size_in_bytes": 13144
       },
       {
@@ -2970,7 +2971,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
         "sha256": "68f82d27bf99290c9cd0b1329c2e22544ba61546a0122fa82625a019bac990d4",
-        "sha256_in_prefix": "884d672273bed13745f09acc4c6bb65c538b01a94d3298fe5ef5610f7985a84e",
+        "sha256_in_prefix": "83bcd6c671ea1666613e2b3f5016000137cd385f2db711508b4b819281fed5c2",
         "size_in_bytes": 4707
       },
       {
@@ -2979,7 +2980,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/10dd1500-e7e9-4eb8-4ab4-a7c774e03737/volume/tk_1592503177392/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
         "sha256": "1cfb8105e7f5f20d41ac16e628e87df20b89f334ac03443cda9ba58cb7f826e0",
-        "sha256_in_prefix": "33a29f58308e81a5447f85592cc074e8daab06ef01b9a5f5a7c55332c9e7a656",
+        "sha256_in_prefix": "8ff5a59f699a3dbc2c967853ff7efde0dccedc5076ea5596202ad53d09b6da79",
         "size_in_bytes": 36772
       },
       {
@@ -3002,7 +3003,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/10dd1500-e7e9-4eb8-4ab4-a7c774e03737/volume/tk_1592503177392/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
         "sha256": "ab6efc5dcf2ccf44b172dcefd3874dc4b9524576ea3fa7ad45897c243278ce83",
-        "sha256_in_prefix": "a04f13adac0c15dd79a951dc08fd1bdd9f1cdf6bf6651553e91ceaaee473897f",
+        "sha256_in_prefix": "fcde4c93342b8ad057c3bc73c467f731d9ce71fdfb27b28ccf8081081857e433",
         "size_in_bytes": 49876
       },
       {
@@ -3025,7 +3026,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/10dd1500-e7e9-4eb8-4ab4-a7c774e03737/volume/tk_1592503177392/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
         "sha256": "86e31af0de4839f921d96baae970f6c7222d909d05747fd030728134e94e84d6",
-        "sha256_in_prefix": "da04c3d06ce57b3a1cb3e96e1cf72eaf57b9a1ff60a69698840f739ee084396e",
+        "sha256_in_prefix": "bb5d2d97b6ea9a06e70da6500674fbe91e69a8b1d3f1796433cd350cf095dfa2",
         "size_in_bytes": 36764
       },
       {
@@ -3048,7 +3049,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/10dd1500-e7e9-4eb8-4ab4-a7c774e03737/volume/tk_1592503177392/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
         "sha256": "fbb113ae3984ed1e711060e172871323b05258775aec3222ade5e3764059fc60",
-        "sha256_in_prefix": "52210d1191ba7136216f5af7b141b6f1a900f9185b1b72adaab233671a9725b6",
+        "sha256_in_prefix": "0cd78f093dda1a862280138127ff503d4208f6c73b2a3f389e27e3135944c5cc",
         "size_in_bytes": 77580
       },
       {
@@ -4268,7 +4269,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
         "sha256": "c5e26b5ff7030f1cf36e9bb0a88d7e369f13d3a55216be2e623bab72b3528a97",
-        "sha256_in_prefix": "ab9e27fe1a0c14543e47046d7ec00fbfd2d26af450e4d8c2ce09974f647c0c8c",
+        "sha256_in_prefix": "097d9e990b71ce2168099e768e7905cd45183df45a95773c33b3dd41e02fe218",
         "size_in_bytes": 4707
       }
     ],

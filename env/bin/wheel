@@ -1,4 +1,4 @@
-#!/Users/luisg/Documents/GitHub/Auto-Bases/Env/env/bin/python3.9
+#!/Users/luisg/Documents/GitHub/Auto-Bases/env/bin/python3.9
 # -*- coding: utf-8 -*-
 import re
 import sys

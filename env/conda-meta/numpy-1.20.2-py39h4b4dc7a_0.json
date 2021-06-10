@@ -17,6 +17,7 @@
   "files": [],
   "fn": "numpy-1.20.2-py39h4b4dc7a_0.conda",
   "legacy_bz2_md5": "436f1d3c78df2f3362bbe5b9c7df8347",
+  "legacy_bz2_size": 22028,
   "license": "BSD 3-Clause",
   "link": {
     "source": "/opt/anaconda3/pkgs/numpy-1.20.2-py39h4b4dc7a_0",

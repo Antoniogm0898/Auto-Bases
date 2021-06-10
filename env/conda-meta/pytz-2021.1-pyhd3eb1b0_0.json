@@ -632,6 +632,7 @@
   ],
   "fn": "pytz-2021.1-pyhd3eb1b0_0.conda",
   "legacy_bz2_md5": "c0d45c9d037b337ac9a517728e48d77f",
+  "legacy_bz2_size": 249989,
   "license": "MIT",
   "link": {
     "source": "/opt/anaconda3/pkgs/pytz-2021.1-pyhd3eb1b0_0",

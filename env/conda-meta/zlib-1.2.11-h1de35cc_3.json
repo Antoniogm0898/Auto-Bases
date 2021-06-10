@@ -17,6 +17,7 @@
   ],
   "fn": "zlib-1.2.11-h1de35cc_3.conda",
   "legacy_bz2_md5": "6fddebfbe8354dd5fdb5ac8d56dec5bf",
+  "legacy_bz2_size": 107053,
   "license": "zlib",
   "license_family": "Other",
   "link": {
@@ -48,7 +49,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/daaeb72a-edde-4290-4b99-c04415e26890/volume/zlib_1542814994389/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
         "sha256": "ba0ba7b406dd17acf750f4a4ed9a131c93bf3b843c66186bf7981fc9301cc122",
-        "sha256_in_prefix": "cb211041111028e0b13393cbb63cc47f33fe017b88fa7d6e35a23abba8ff244e",
+        "sha256_in_prefix": "3d80abecf4e3e297ab513d4b005923ecc9d424752fb1f946ce50aa00fd66e2d4",
         "size_in_bytes": 100996
       },
       {
@@ -80,7 +81,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
         "sha256": "5613df6f1a56c1c3e0c2aa3da9284b51de9682882a6a9ba7af68a07745cb3aac",
-        "sha256_in_prefix": "b39eb229a36533dd33d52a467525fee173a74aca0d9d00267dedb9396136f79f",
+        "sha256_in_prefix": "fae2309462329de1cacf2c35f87f533bf2393aba0aeae876d71b77dced783a78",
         "size_in_bytes": 281
       }
     ],

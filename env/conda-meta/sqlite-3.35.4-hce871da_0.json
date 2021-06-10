@@ -20,6 +20,7 @@
   ],
   "fn": "sqlite-3.35.4-hce871da_0.conda",
   "legacy_bz2_md5": "1df043ffd2aeb5bed4e3bf322a2054b2",
+  "legacy_bz2_size": 1807880,
   "license": "Public-Domain (http://www.sqlite.org/copyright.html)",
   "link": {
     "source": "/opt/anaconda3/pkgs/sqlite-3.35.4-hce871da_0",
@@ -70,7 +71,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/concourse/worker/volumes/live/f705349e-4e6b-4cbb-529a-65410e98c205/volume/sqlite_1617396648274/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
         "sha256": "e80ddd5c546cc0d0f31489b7f0d6a2ac13455ab3ffb2103a56ec05ea6308e987",
-        "sha256_in_prefix": "6d3dae52e94e4a72e096af80a7fa07967563cf099dcb8876efe768b14dcabb05",
+        "sha256_in_prefix": "f0c0b2f491a00bd3af534bc87e4b27f4bc5140f737b6827672088dc86b6894e9",
         "size_in_bytes": 512
       },
       {
