@@ -96,3 +96,15 @@
 +defaults/osx-64::zeromq-4.3.4-h23ab428_0
 +defaults/osx-64::zlib-1.2.11-h1de35cc_3
 # update specs: ['pandas', 'jupyter', 'notebook', 'numpy']
+==> 2021-06-10 11:20:28 <==
+# cmd: /opt/anaconda3/bin/conda install xlrd
+# conda version: 4.10.1
++defaults/noarch::xlrd-2.0.1-pyhd3eb1b0_0
+# update specs: ['xlrd']
+==> 2021-06-10 11:46:45 <==
+# cmd: /opt/anaconda3/bin/conda install openpyxl
+# conda version: 4.10.1
++defaults/noarch::jdcal-1.4.1-py_0
++defaults/noarch::openpyxl-3.0.7-pyhd3eb1b0_0
++defaults/osx-64::et_xmlfile-1.1.0-py39hecd8cb5_0
+# update specs: ['openpyxl']
